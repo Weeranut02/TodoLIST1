@@ -1,0 +1,7 @@
+C:\ToDoListTest\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\ToDoListTest\obj\Debug\net9.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\ToDoListTest\obj\Debug\net9.0\TodoList.AssemblyInfoInputs.cache
+C:\ToDoListTest\obj\Debug\net9.0\TodoList.AssemblyInfo.cs
+C:\ToDoListTest\obj\Debug\net9.0\TodoList.csproj.CoreCompileInputs.cache
+C:\ToDoListTest\obj\Debug\net9.0\TodoList.MvcApplicationPartsAssemblyInfo.cache
+C:\ToDoListTest\obj\Debug\net9.0\TodoList.sourcelink.json
